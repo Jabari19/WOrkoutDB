@@ -1,4 +1,8 @@
 # Robert Serembe
-*phone:* 8323124040
-*Email:* gichrba@gmail.com
+
+## Contact Info
+*phone:* 8323124040 <br />
+*Email:* gichrba@gmail.com <br />
+
+## IS330
 
