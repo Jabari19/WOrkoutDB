@@ -10,6 +10,7 @@ CREATE TABLE Users (
     last_name VARCHAR(50),
     email VARCHAR(100),
     age INT
+   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP 
 );
 
 -- Exercises table
