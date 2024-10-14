@@ -99,10 +99,10 @@ CREATE TABLE Food (
 
 -- Sample Data for Users
 INSERT INTO Users (first_name, last_name, email, age) VALUES 
-('Alice', 'Smith', 'alice@example.com', 25),
-('Bob', 'Johnson', 'bob@example.com', 30),
-('Charlie', 'Brown', 'charlie@example.com', 22),
-('Diana', 'Prince', 'diana@example.com', 28);
+('Alice', 'Smith', 'alice@gmail.com', 25),
+('Bob', 'Johnson', 'bob@yahoo.com', 30),
+('Charlie', 'Brown', 'charlie@yahoo.com', 22),
+('Diana', 'Prince', 'diana@gmail.com', 28);
 
 -- Sample Data for Exercises
 INSERT INTO Exercises (name, description, category) VALUES
